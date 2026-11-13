@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lcctools
-- 👀 I’m interested in Market,SEC
-- 🌱 I’m currently learning Deeplearning
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-lcctools/lcctools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这里只是一些脚本，现在大部分都AI写的了。
+尽量把流程脚本化，工具化。如果每次都AI实时处理，成本和风险有点高。
+脚本可复用，离线。各有优劣把。
